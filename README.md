@@ -53,19 +53,17 @@ module.
 [Proposal](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Proposal.pdf)
 
 ## Conclusion:
-- In this project, we used linear regression for evaluating individual health insurance data. The predicted premiums from this model was compared with actual premiums to compare the accuracy of the model.
-- Various factors were used and their effect on predicted amount was examined. It was observed that a person’s age and smoking status affects the recommendation most. 
-- Premium amount recommendation focuses on person’s own health rather than other company’s insurance terms and conditions. The models can be applied to the data collected in coming years to recommend the premium. This can help not only people but also insurance companies to work in tandem for better and more health centric insurance amount.
+- It is a low-cost project and highly effective. 
+- One could afford it and implement it easily.
+- Due to absence of complex features, the designed device can also be handled by any non-medical professionals also. Thus it can also be used at home.
 
 ### Future Scope:
-- The current machine learning model is limited to accurate predictions of the specific age group hence in future scope we can increase the quality and accuracy of the dataset. 
-- The user interface can be improved and buying of new policies can be  incorporated. 
-- Inclusion of more parameters like chronic diseases, number of surgeries can be used in the future for better cost recommendation.
+- The pulse sensor SEN-11574 readings can be affected by surrounding noises as it is a relatively open sensor and not an enclosed one. The developed device is not a portable one. 
+- In future a sensor that is enclosed can be incorporated. The accuracy of the project will improve as the sensor’s readings will not be affected by background noises. - The user interface can also be improved and made more user friendly.
 
 ## References:
 
-[1] Manasa, S. Tony, et al. "Heart Rate Monitoring System Using LabView." International Journal of Engineering and Management Research (IJEMR) 5.2 (2015):
-590-594.
+[1] Manasa, S. Tony, et al. "Heart Rate Monitoring System Using LabView." International Journal of Engineering and Management Research (IJEMR) 5.2 (2015): 590-594.
 
 [2] Orla O’Brien."Beats-Per-Minute (BPM): A Microservice-based Platform for the Monitoring of Health Related Datavia Activity Trackers."(2017).
 
