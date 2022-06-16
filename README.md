@@ -29,46 +29,21 @@ module.
 
 ![App Screenshot3](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss3.png)
 
-## Implementation:
-**1.Dataset details**
-- The attributes of dataset are: Age,Sex,BMI,Children,Smoking habit.
-
-**2. Algorithm**
-- Linear Regression algorithm was used.
-
-**3.Performance metrics**
-- R-squared value
-
-## Project Screenshots:
-**Home Page:**
+## Project Setup & Output:
+**Setup:**
 
 ![App Screenshot1](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss3.png)
 
-**Input Page:**
+**Output:**
 
-![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss4.png)
+![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss5.png)
 
-**Result Page:**
-
-![App Screenshot3](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss5.png)
-
-## Tech Stack Used
-**Front-End:**
+## Hardware & Software Requirements:
+**Hardware:**
 - **HTML**
-- **CSS**
-- **Bootstrap**
 
-**Back-End:**
-- **Python**
-- **Flask**
-
-**Editor Tools:**
-- **VsCode/ PyCharm**
-- **Jupyter Notebook**
-
-**Dataset:** 
+**Software:** 
 - **Kaggle**
-
 
 ## Documentation:
 [Final Report](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Report.pdf)
