@@ -32,11 +32,11 @@ module.
 ## Project Setup & Output:
 **Setup:**
 
-![App Screenshot1](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss3.png)
+![App Screenshot1](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss4.png)
 
 **Output:**
 
-![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss5.png)
+![App Screenshot2](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss5.png)
 
 ## Hardware & Software Requirements:
 **Hardware:**
