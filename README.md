@@ -21,11 +21,13 @@ module.
 
 ## System Design:
 
-![App Screenshot1]()
+![App Screenshot1](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss1.png)
 
 ## Circuit Diagram:
 
-![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss2.png)
+![App Screenshot2](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss2.png)
+
+![App Screenshot3](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Images/ss3.png)
 
 ## Implementation:
 **1.Dataset details**
