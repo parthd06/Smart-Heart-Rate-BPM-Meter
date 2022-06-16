@@ -3,7 +3,7 @@
 ## Introduction:
 - There are many low-cost pulse sensors in the market that can be used to make a pulse BPM meter, but when it comes to accuracy and stability, the sensors are not
 reliable.
-- This project describes the design of a very low-cost device which measures the heart rate of the subject by clipping sensors on one of the fingers and then displaying the result.
+- This project describes the design of a very low-cost device which measures the heart rate of the subject and then displays the result.
 
 ## Problem Statement:
 To develop a heart rate monitoring system using an SEN-11574 pulse sensor and display heart rate value on an web/ mobile application using a HC-05 Bluetooth
