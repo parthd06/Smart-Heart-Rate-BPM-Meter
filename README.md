@@ -59,7 +59,8 @@ module.
 
 ### Future Scope:
 - The pulse sensor SEN-11574 readings can be affected by surrounding noises as it is a relatively open sensor and not an enclosed one. The developed device is not a portable one. 
-- In future a sensor that is enclosed can be incorporated. The accuracy of the project will improve as the sensor’s readings will not be affected by background noises. - The user interface can also be improved and made more user friendly.
+- In future a sensor that is enclosed can be incorporated. The accuracy of the project will improve as the sensor’s readings will not be affected by background noises.
+- The user interface can also be improved and made more user friendly.
 
 ## References:
 
