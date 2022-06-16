@@ -1,20 +1,17 @@
 # Smart-Heart-Rate-BPM-Meter
 
 ## Introduction:
-- With the constant increasing prices of healthcare in our country, and with the ever-rising instances of diseases, health insurance today is a necessity. 
-- Health insurance provides people with a much-needed financial backup at times of medical emergencies.
-
-## Objectives:
-1.To build a Machine learning model to recommend insurance policy.
-
-2.To help the customer to be financially prepared in case of medical emergency.
+- There are many low-cost pulse sensors in the market that can be used to make a pulse BPM meter, but when it comes to accuracy and stability, the sensors are not
+reliable.
+- This project describes the design of a very low-cost device which measures the heart rate of the subject by clipping sensors on one of the fingers and then displaying the result.
 
 ## Problem Statement:
-To develop a machine learning model which can recommend the cost of an insurance policy that a customer should purchase. This model will be able to recommend the cost of insurance to the customers based on their  BMI, age, medical history, and smoking habits.
+To develop a heart rate monitoring system using an SEN-11574 pulse sensor and display heart rate value on an web/ mobile application using a HC-05 Bluetooth
+module.
 
 ## Demo Video:
 
-[](https://user-images.githubusercontent.com/56031116/173902276-4f131798-d2d8-4e33-9522-61ad5453b727.mp4)
+[]()
 
 ## Group Members:
 - [@parthdali](https://github.com/parthd06)
@@ -22,11 +19,11 @@ To develop a machine learning model which can recommend the cost of an insurance
 - [@shivambhosale](https://github.com/ShivamB10)
 - [@harshkumarbhikadiya](https://github.com/Harshbhikadiya29)
 
-## Architectural Diagram:
+## System Design:
 
-![App Screenshot1](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss1.png)
+![App Screenshot1]()
 
-## Methodology:
+## Circuit Diagram:
 
 ![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss2.png)
 
