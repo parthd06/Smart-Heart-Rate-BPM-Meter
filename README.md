@@ -55,7 +55,7 @@ module.
 ## Conclusion:
 - It is a low-cost project and highly effective. 
 - One could afford it and implement it easily.
-- Due to absence of complex features, the designed device can also be handled by any non-medical professionals also. Thus it can also be used at home.
+- Due to absence of complex features, the designed device can also be handled by any non-medical professionals. Thus it can also be used at home.
 
 ### Future Scope:
 - The pulse sensor SEN-11574 readings can be affected by surrounding noises as it is a relatively open sensor and not an enclosed one. The developed device is not a portable one. 
