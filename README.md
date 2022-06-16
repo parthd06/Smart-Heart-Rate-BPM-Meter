@@ -40,7 +40,15 @@ module.
 
 ## Hardware & Software Requirements:
 **Hardware:**
-- **Arduino**
+| Components    | Quantity     
+| ------------- |:-------------:
+| Arduino Uno     | 1
+| HC05 Bluetooth Module      | 1     
+| SEN-11574 Pulse Sensor | 1    
+| Breadboard     | 1
+| Power Supply     | 1
+| Lcd Display     | 1
+| Connecting wires     | 20
 
 **Software:** 
 - **Arduino IDE**
