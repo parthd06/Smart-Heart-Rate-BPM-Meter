@@ -46,11 +46,11 @@ module.
 - **Kaggle**
 
 ## Documentation:
-[Final Report](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Report.pdf)
+[Final Report](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Final_Report.pdf)
 
-[Final Presentation](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Ppt.pptx)
+[Final Presentation](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Presentation.pdf)
 
-[Proposal](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Proposal.pdf)
+[Proposal](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Proposal.pdf)
 
 ## Conclusion:
 - In this project, we used linear regression for evaluating individual health insurance data. The predicted premiums from this model was compared with actual premiums to compare the accuracy of the model.
@@ -64,13 +64,15 @@ module.
 
 ## References:
 
-[1] Mohamed hanafy, Omar M. A. Mahmoud."Predict Health Insurance Cost by using Machine Learning and DNN Regression Models" International Journal of Innovative Technology and Exploring Engineering (IJITEE)(2021):2278-3075
+[1] Manasa, S. Tony, et al. "Heart Rate Monitoring System Using LabView." International Journal of Engineering and Management Research (IJEMR) 5.2 (2015):
+590-594.
 
-[2] Kaggle[online]
-https://www.kaggle.com/datasets/awaiskaggler/insurance-csv (Accessed:Jan 23, 2022)
+[2] Orla O’Brien."Beats-Per-Minute (BPM): A Microservice-based Platform for the Monitoring of Health Related Datavia Activity Trackers."(2017).
 
-[3] Researchgate.net.[Online]
-https://www.researchgate.net/publication/348559741_Predict_Health_Insurance_Cost_by_using_Machine_Learning_and_DNN_Regression_Models. (Accessed: 24-Jan-2022).
+[3] Vinodhini, S., et al. "Heart Rate Monitoring Using GSM Technology." (2018).
 
-[4] moneycrashers.[online]
-https://www.moneycrashers.com/factors-health-insurance-premium- costs(Accessed:Jan 23, 2022)
+[4] Vinodhini, R., and R. Puniarasi. "Heart rate monitoring system using pulse sensor with data stored on server." IJEAT 8.6 (2019): 2374-2377.
+
+[5] how2electronics.[online].Available https://how2electronics.com/pulse-rate-bpm-monitor-arduino-pulse-sensor/ (Accessed:Jan 23 ,2022)
+
+[6]"How to show arduino sensor data on a web page", Russell Ramirez , [online].Available https://www.circuitbasics.com/how-to-set-up-a-web-server-using-arduino-and-esp8266-01/ (Accessed:Jan 23, 2022)
