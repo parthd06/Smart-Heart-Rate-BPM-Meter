@@ -52,6 +52,7 @@ module.
 
 **Software:** 
 - **Arduino IDE**
+- **Arduino Serial Monitor Application**
 
 ## Documentation:
 [Final Report](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Final_Report.pdf)
