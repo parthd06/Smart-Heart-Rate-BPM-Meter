@@ -9,9 +9,9 @@ reliable.
 To develop a heart rate monitoring system using an SEN-11574 pulse sensor and display heart rate value on a web/ mobile application using a HC-05 Bluetooth
 module.
 
-## Demo Video:
+<!-- ## Demo Video: -->
 
-[]()
+<!-- []() -->
 
 ## Group Members:
 - [@parthdali](https://github.com/parthd06)
