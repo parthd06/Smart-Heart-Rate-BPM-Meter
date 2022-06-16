@@ -40,10 +40,10 @@ module.
 
 ## Hardware & Software Requirements:
 **Hardware:**
-- **HTML**
+- **Arduino**
 
 **Software:** 
-- **Kaggle**
+- **Arduino IDE**
 
 ## Documentation:
 [Final Report](https://github.com/parthd06/Smart-Heart-Rate-BPM-Meter/blob/main/Documents/SL_Final_Report.pdf)
