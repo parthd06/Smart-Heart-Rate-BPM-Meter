@@ -6,7 +6,7 @@ reliable.
 - This project describes the design of a very low-cost device which measures the heart rate of the subject and then displays the result.
 
 ## Problem Statement:
-To develop a heart rate monitoring system using an SEN-11574 pulse sensor and display heart rate value on an web/ mobile application using a HC-05 Bluetooth
+To develop a heart rate monitoring system using an SEN-11574 pulse sensor and display heart rate value on a web/ mobile application using a HC-05 Bluetooth
 module.
 
 ## Demo Video:
